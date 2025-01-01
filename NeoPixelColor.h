@@ -1,4 +1,5 @@
 #include <Adafruit_NeoPixel.h>
+
 /**
  * Make it so you can adjust color brightness per pixel
  */
